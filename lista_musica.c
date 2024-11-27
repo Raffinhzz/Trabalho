@@ -275,8 +275,8 @@ do{
         printf("f = Yellow Ledbetter \n");
         printf("g = Snuff \n");
         printf("h = Duality \n");
-        printf("i = Fazers\n");
-        printf("j = Smooth Operator\n");
+        printf("i = Smooth Operator\n");
+        printf("j = Fazers\n");
         printf("k = Lilas\n");
         printf("z = Voltar ao menu anterior \n");
         printf("Selecione a musica: \n");

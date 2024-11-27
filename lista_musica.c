@@ -1,3 +1,5 @@
+// Esse eh um trabalho de "Rafael Costa Amorim" e "Rodrigo Castro Caramaschi"
+
 #include <stdio.h>
 
 int main(){
